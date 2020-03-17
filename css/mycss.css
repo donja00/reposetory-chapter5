@@ -1,0 +1,52 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	paddig: 0;
+	border: 0;
+}
+header {
+	font-family: 'Lacquer', sans-serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+    background-color: #FF8EB0;
+    width: auto;
+	border-radius: 10px;
+    text-align: left;
+    line-height: 63px;
+    text-indent: 10px;
+}
+headerpar {
+	font-family: 'Lacquer', sans-serif;
+	font-size: 24px;
+	width: 1200px;
+	background-color: #FF4A81;
+	text-align: left;
+	text-indent: 20px;
+	line-height: 26px;
+	border-radius: 10px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+	
+.paragraph {
+	background-color: #FDFDFD;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    width: 1200px;
+    text-align: left;
+    line-height: 26px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+body {
+	background-image: url(../images/sundown.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	backgound-attachment: fixed;
+}
